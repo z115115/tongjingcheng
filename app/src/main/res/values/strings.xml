@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">童锦程jev</string>
+    <string name="a11y_desc">读取当前聊天窗口中用户可见的文字，按童锦程视角生成判断与回复建议。不会自动发送消息。</string>
+</resources>

@@ -1,0 +1,20 @@
+Jev 聊天助手 (Jev Chat Assistant)
+Copyright (c) 2026 Finderchangchang and the jev-chat contributors
+https://github.com/jev-chat/jev-chat-jarvis · https://chatjevs.com
+
+本项目以 MIT 协议开源（见 LICENSE）。
+
+- 允许个人和商业使用、修改、再分发、集成到自有产品中，无需付费或事先授权。
+- 分发或商用时，必须保留 LICENSE 与本 NOTICE 文件，并在产品的关于页、说明文档或发布页中注明出处。
+- 不得使用 Jev 聊天助手、jev-chat 名称或官网域名暗示由原作者出品或背书。
+
+Derivative work: 童锦程jev Android 浮窗
+Based on Jev Chat Assistant (https://github.com/jev-chat/jev-chat-jarvis).
+
+Tong Jincheng perspective content is adapted from the MIT-licensed
+tong-jincheng-skill by hotcoffeeshake:
+https://github.com/hotcoffeeshake/tong-jincheng-skill
+Its source snapshot and license are retained in docs/tong-jincheng-skill/.
+
+This derivative is not Tong Jincheng and does not imply endorsement by Tong
+Jincheng, Jev Chat Assistant, or the authors of tong-jincheng-skill.
